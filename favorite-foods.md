@@ -1,4 +1,4 @@
-#My Favorite Foods
+# My Favorite Foods
 
 These are the things I like to eat.
 
